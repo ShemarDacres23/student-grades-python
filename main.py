@@ -89,7 +89,7 @@ def measure_search_time(sorted_data, target, runs=500):
 
 
 # ─────────────────────────────────────────────
-# MAIN DEMO
+# MAIN DEMOs
 # ─────────────────────────────────────────────
 
 def run_demo():
